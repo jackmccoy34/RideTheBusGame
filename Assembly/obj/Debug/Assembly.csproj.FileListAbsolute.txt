@@ -1,0 +1,9 @@
+C:\Users\jack\source\repos\PairProgramming2\Assembly\obj\Debug\Assembly.csprojAssemblyReference.cache
+C:\Users\jack\source\repos\PairProgramming2\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\jack\source\repos\PairProgramming2\Assembly\bin\Debug\Assembly.exe
+C:\Users\jack\source\repos\PairProgramming2\Assembly\bin\Debug\Assembly.pdb
+C:\Users\jack\source\repos\PairProgramming2\Assembly\bin\Debug\ClassLibrary1.dll
+C:\Users\jack\source\repos\PairProgramming2\Assembly\bin\Debug\ClassLibrary1.pdb
+C:\Users\jack\source\repos\PairProgramming2\Assembly\obj\Debug\Assembly.csproj.CopyComplete
+C:\Users\jack\source\repos\PairProgramming2\Assembly\obj\Debug\Assembly.exe
+C:\Users\jack\source\repos\PairProgramming2\Assembly\obj\Debug\Assembly.pdb
